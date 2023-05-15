@@ -8,7 +8,7 @@ This is basically a Learning management System
 ## Authors
 
 - [@MRRIZ99](https://github.com/mrriz99).
-Hi, I’m RAHUL SHARMA, a java and web developer. I have been working as a developer for over three years now, and I love creating web applications that are fast, secure, and scalable. I have experience working with HTML, CSS, JavaScript, Java, Spring Boot, Hibernate, MySQL, MongoDB, and AWS. I enjoy learning new technologies and frameworks and applying them to real-world problems. I also like to write clean, modular, and well-documented code that follows best practices.
+Hi, I’m RAHUL SHARMA, a full stack java and web developer. I have been working as a developer for over three years now, and I love creating web applications that are fast, secure, and scalable. I have experience working with HTML, CSS, JavaScript, Java, Spring Boot, Hibernate, MySQL, MongoDB, and AWS. I enjoy learning new technologies and frameworks and applying them to real-world problems. I also like to write clean, modular, and well-documented code that follows best practices.
 
 
 ## Installation
@@ -42,3 +42,15 @@ Insert gif or link to demo
 ![landing page1](https://github.com/mrriz99/aurionpro-LMS/assets/67002071/412629a8-c308-4cbe-b4bc-f84202ecf3f9)
 ![courses](https://github.com/mrriz99/aurionpro-LMS/assets/67002071/2831b4b1-0097-49ad-9a3d-25f35cdf2147)
 ![create course page](https://github.com/mrriz99/aurionpro-LMS/assets/67002071/63a59902-9f12-460f-9e5a-85b1b1d93f91)
+## Deployment
+
+To deploy this project run
+
+```bash
+  for Deployment use AWS,STRIPE
+  in AWS[s3,iam,bucket]
+
+  In STRIPE register yourself as a developer
+
+```
+
